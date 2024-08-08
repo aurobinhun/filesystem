@@ -1,5 +1,5 @@
 {
-    "name": "acacha/filesystem",
+    "name": "aurobinhun/filesystem",
     "type": "library",
     "description": "A PHP filesystem with stubs compiler support",
     "keywords": [
